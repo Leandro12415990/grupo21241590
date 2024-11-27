@@ -1,1 +1,1 @@
-O merge serve para juntar duas branches, ou seja, juntar o codigo de uma branch com o existente de outra.
+o comando para verificar os ficheiros adicionados é o "git status" e o para verificar os ficheiros que estão staged é o "git stash".
